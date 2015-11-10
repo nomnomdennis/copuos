@@ -1,0 +1,1766 @@
+[
+    {
+        "AREA": "Afghanistan",
+        "OST": "R",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "1"
+    },
+    {
+        "AREA": "Albania",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Algeria",
+        "OST": "R",
+        "ARRA": "",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "3"
+    },
+    {
+        "AREA": "Andorra",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Angola",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Antigua and Barbuda",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Argentina",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Armenia",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Australia",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "R",
+        "TREATIESSR": "5"
+    },
+    {
+        "AREA": "Austria",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "R",
+        "TREATIESSR": "5"
+    },
+    {
+        "AREA": "Azerbaijan",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Bahamas",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "2"
+    },
+    {
+        "AREA": "Bahrain",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Bangladesh",
+        "OST": "R",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "1"
+    },
+    {
+        "AREA": "Barbados",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "2"
+    },
+    {
+        "AREA": "Belarus",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Belgium",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "R",
+        "TREATIESSR": "5"
+    },
+    {
+        "AREA": "Belize",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Benin",
+        "OST": "R",
+        "ARRA": "",
+        "LIAB": "R",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "2"
+    },
+    {
+        "AREA": "Bhutan",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Bolivia",
+        "OST": "S",
+        "ARRA": "S",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "2"
+    },
+    {
+        "AREA": "Bosnia and Herzegovina",
+        "OST": "",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "2"
+    },
+    {
+        "AREA": "Botswana",
+        "OST": "S",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "3"
+    },
+    {
+        "AREA": "Brazil",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Brunei Darussalam",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Bulgaria",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Burkina Faso",
+        "OST": "R",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "1"
+    },
+    {
+        "AREA": "Burundi",
+        "OST": "S",
+        "ARRA": "",
+        "LIAB": "S",
+        "REG": "S",
+        "MOON": "",
+        "TREATIESSR": "3"
+    },
+    {
+        "AREA": "Cambodia",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "S",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "1"
+    },
+    {
+        "AREA": "Cameroon",
+        "OST": "S",
+        "ARRA": "R",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "2"
+    },
+    {
+        "AREA": "Canada",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Cape Verde",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Central African Republic",
+        "OST": "S",
+        "ARRA": "",
+        "LIAB": "S",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "2"
+    },
+    {
+        "AREA": "Chad",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Chile",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "R",
+        "TREATIESSR": "5"
+    },
+    {
+        "AREA": "China",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Colombia",
+        "OST": "S",
+        "ARRA": "S",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Comoros",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Congo",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Cook Islands",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Costa Rica",
+        "OST": "",
+        "ARRA": "S",
+        "LIAB": "S",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "3"
+    },
+    {
+        "AREA": "Cote d'Ivoire",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Croatia",
+        "OST": "",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "2"
+    },
+    {
+        "AREA": "Cuba",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Cyprus",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Czech Republic",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Democratic People's Republic of Korea",
+        "OST": "R",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "2"
+    },
+    {
+        "AREA": "Democratic Republic of the Congo",
+        "OST": "S",
+        "ARRA": "S",
+        "LIAB": "S",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "3"
+    },
+    {
+        "AREA": "Denmark",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Djibouti",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Dominica",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Dominican Republic",
+        "OST": "R",
+        "ARRA": "S",
+        "LIAB": "R",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "3"
+    },
+    {
+        "AREA": "Ecuador",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "3"
+    },
+    {
+        "AREA": "Egypt",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "S",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "3"
+    },
+    {
+        "AREA": "El Salvador",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "S",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "3"
+    },
+    {
+        "AREA": "Equatorial Guinea",
+        "OST": "R",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "1"
+    },
+    {
+        "AREA": "Eritrea",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Estonia",
+        "OST": "R",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "1"
+    },
+    {
+        "AREA": "Ethiopia",
+        "OST": "S",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "1"
+    },
+    {
+        "AREA": "Fiji",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "3"
+    },
+    {
+        "AREA": "Finland",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "3"
+    },
+    {
+        "AREA": "France",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "S",
+        "TREATIESSR": "5"
+    },
+    {
+        "AREA": "Gabon",
+        "OST": "",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "2"
+    },
+    {
+        "AREA": "Gambia",
+        "OST": "S",
+        "ARRA": "R",
+        "LIAB": "S",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "3"
+    },
+    {
+        "AREA": "Georgia",
+        "OST": "",
+        "ARRA": "R",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "1"
+    },
+    {
+        "AREA": "Germany",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Ghana",
+        "OST": "S",
+        "ARRA": "S",
+        "LIAB": "S",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "3"
+    },
+    {
+        "AREA": "Greece",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Grenada",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Guatemala",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "S",
+        "REG": "",
+        "MOON": "S",
+        "TREATIESSR": "2"
+    },
+    {
+        "AREA": "Guinea",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Guinea-Bissau",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "2"
+    },
+    {
+        "AREA": "Guyana",
+        "OST": "S",
+        "ARRA": "R",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "2"
+    },
+    {
+        "AREA": "Haiti",
+        "OST": "S",
+        "ARRA": "S",
+        "LIAB": "S",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "3"
+    },
+    {
+        "AREA": "Holy See",
+        "OST": "S",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "1"
+    },
+    {
+        "AREA": "Honduras",
+        "OST": "S",
+        "ARRA": "",
+        "LIAB": "S",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "2"
+    },
+    {
+        "AREA": "Hungary",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Iceland",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "S",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "3"
+    },
+    {
+        "AREA": "India",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "S",
+        "TREATIESSR": "5"
+    },
+    {
+        "AREA": "Indonesia",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Iran",
+        "OST": "S",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "S",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Iraq",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "3"
+    },
+    {
+        "AREA": "Ireland",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "3"
+    },
+    {
+        "AREA": "Israel",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "3"
+    },
+    {
+        "AREA": "Italy",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Jamaica",
+        "OST": "R",
+        "ARRA": "S",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "2"
+    },
+    {
+        "AREA": "Japan",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Jordan",
+        "OST": "S",
+        "ARRA": "S",
+        "LIAB": "S",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "3"
+    },
+    {
+        "AREA": "Kazakhstan",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "R",
+        "TREATIESSR": "5"
+    },
+    {
+        "AREA": "Kenya",
+        "OST": "R",
+        "ARRA": "",
+        "LIAB": "R",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "2"
+    },
+    {
+        "AREA": "Kiribati",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Kuwait",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "R",
+        "TREATIESSR": "5"
+    },
+    {
+        "AREA": "Kyrgyzstan",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Lao People's Democratic Republic",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "3"
+    },
+    {
+        "AREA": "Latvia",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Lebanon",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "R",
+        "TREATIESSR": "5"
+    },
+    {
+        "AREA": "Lesotho",
+        "OST": "S",
+        "ARRA": "S",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "2"
+    },
+    {
+        "AREA": "Liberia",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Libya",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Liechtenstein",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "2"
+    },
+    {
+        "AREA": "Lithuania",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Luxembourg",
+        "OST": "R",
+        "ARRA": "S",
+        "LIAB": "R",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "3"
+    },
+    {
+        "AREA": "Madagascar",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "2"
+    },
+    {
+        "AREA": "Malawi",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Malaysia",
+        "OST": "S",
+        "ARRA": "S",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "2"
+    },
+    {
+        "AREA": "Maldives",
+        "OST": "",
+        "ARRA": "R",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "1"
+    },
+    {
+        "AREA": "Mali",
+        "OST": "R",
+        "ARRA": "",
+        "LIAB": "R",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "2"
+    },
+    {
+        "AREA": "Malta",
+        "OST": "",
+        "ARRA": "S",
+        "LIAB": "R",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "2"
+    },
+    {
+        "AREA": "Marshall Islands",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Mauritania",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Mauritius",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "2"
+    },
+    {
+        "AREA": "Mexico",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "R",
+        "TREATIESSR": "5"
+    },
+    {
+        "AREA": "Micronesia (Federated States of)",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Monaco",
+        "OST": "",
+        "ARRA": "S",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "1"
+    },
+    {
+        "AREA": "Mongolia",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Montenegro",
+        "OST": "",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "3"
+    },
+    {
+        "AREA": "Morocco",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "R",
+        "TREATIESSR": "5"
+    },
+    {
+        "AREA": "Mozambique",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Myanmar",
+        "OST": "R",
+        "ARRA": "S",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "2"
+    },
+    {
+        "AREA": "Namibia",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Nauru",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Nepal",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "S",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "3"
+    },
+    {
+        "AREA": "Netherlands",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "R",
+        "TREATIESSR": "5"
+    },
+    {
+        "AREA": "New Zealand",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "3"
+    },
+    {
+        "AREA": "Nicaragua",
+        "OST": "S",
+        "ARRA": "S",
+        "LIAB": "S",
+        "REG": "S",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Niger",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Nigeria",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Norway",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Oman",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "S",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "1"
+    },
+    {
+        "AREA": "Pakistan",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "R",
+        "TREATIESSR": "5"
+    },
+    {
+        "AREA": "Palau",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Panama",
+        "OST": "S",
+        "ARRA": "",
+        "LIAB": "R",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "2"
+    },
+    {
+        "AREA": "Papua New Guinea",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "3"
+    },
+    {
+        "AREA": "Paraguay",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Peru",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "R",
+        "TREATIESSR": "5"
+    },
+    {
+        "AREA": "Philippines",
+        "OST": "S",
+        "ARRA": "S",
+        "LIAB": "S",
+        "REG": "",
+        "MOON": "R",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Poland",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Portugal",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "2"
+    },
+    {
+        "AREA": "Qatar",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Republic of Korea",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Republic of Moldova",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Romania",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "",
+        "MOON": "S",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Russian Federation",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Rwanda",
+        "OST": "S",
+        "ARRA": "S",
+        "LIAB": "S",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "3"
+    },
+    {
+        "AREA": "Saint Kitts and Nevis",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Saint Lucia",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Saint Vincent and the Grenadines",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Samoa",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "San Marino",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "2"
+    },
+    {
+        "AREA": "Sao Tome and Principe",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Saudi Arabia",
+        "OST": "R",
+        "ARRA": "",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "R",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Senegal",
+        "OST": "",
+        "ARRA": "S",
+        "LIAB": "R",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "2"
+    },
+    {
+        "AREA": "Serbia",
+        "OST": "S",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Seychelles",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Sierre Leone",
+        "OST": "R",
+        "ARRA": "S",
+        "LIAB": "S",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "3"
+    },
+    {
+        "AREA": "Singapore",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "S",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Slovakia",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Slovenia",
+        "OST": "",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "2"
+    },
+    {
+        "AREA": "Soloman Islands",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Somalia",
+        "OST": "S",
+        "ARRA": "S",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "2"
+    },
+    {
+        "AREA": "South Africa",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "South Sudan",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Spain",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Sri Lanka",
+        "OST": "R",
+        "ARRA": "",
+        "LIAB": "R",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "2"
+    },
+    {
+        "AREA": "Sudan",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Suriname",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Swaziland",
+        "OST": "",
+        "ARRA": "R",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "1"
+    },
+    {
+        "AREA": "Sweden",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Switzerland",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Syrian Arab Republic",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "3"
+    },
+    {
+        "AREA": "Tajikistan",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Thailand",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "2"
+    },
+    {
+        "AREA": "The former Yugoslav Republic of Macedonia",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Timor-Leste",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Togo",
+        "OST": "R",
+        "ARRA": "",
+        "LIAB": "R",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "2"
+    },
+    {
+        "AREA": "Tonga",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "2"
+    },
+    {
+        "AREA": "Trinidad and Tobago",
+        "OST": "S",
+        "ARRA": "",
+        "LIAB": "R",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "2"
+    },
+    {
+        "AREA": "Tunisia",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "3"
+    },
+    {
+        "AREA": "Turkey",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "R",
+        "TREATIESSR": "5"
+    },
+    {
+        "AREA": "Turkmenistan",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Tuvalu",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Uganda",
+        "OST": "R",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "1"
+    },
+    {
+        "AREA": "Ukraine",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "United Arab Emirates",
+        "OST": "R",
+        "ARRA": "",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "3"
+    },
+    {
+        "AREA": "United Kingdom",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Tanzania",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "S",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "1"
+    },
+    {
+        "AREA": "United States",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "",
+        "TREATIESSR": "4"
+    },
+    {
+        "AREA": "Uruguay",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "R",
+        "MOON": "R",
+        "TREATIESSR": "5"
+    },
+    {
+        "AREA": "Uzbekistan",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Vanuatu",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Venezuela",
+        "OST": "R",
+        "ARRA": "S",
+        "LIAB": "R",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "3"
+    },
+    {
+        "AREA": "Vietnam",
+        "OST": "R",
+        "ARRA": "S",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "2"
+    },
+    {
+        "AREA": "Yemen",
+        "OST": "R",
+        "ARRA": "S",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "2"
+    },
+    {
+        "AREA": "Zambia",
+        "OST": "R",
+        "ARRA": "R",
+        "LIAB": "R",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "3"
+    },
+    {
+        "AREA": "Zimbabwe",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    },
+    {
+        "AREA": "Palestine",
+        "OST": "",
+        "ARRA": "",
+        "LIAB": "",
+        "REG": "",
+        "MOON": "",
+        "TREATIESSR": "0"
+    }
+]
