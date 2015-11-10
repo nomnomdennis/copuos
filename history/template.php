@@ -18,7 +18,7 @@
 			      <p class="blue-grey-text text-darken-1">4 October 1957</p>
 			    </div>
 			    <div class="timeline-body">
-			    	The Soviet Union launches the first successful artificial satellite into orbit as part of the International Geophysical Year, Sputnik I. 
+			    	The Soviet Union launches Sputnik I, the first successful artificial satellite, into orbit as part of the International Geophysical Year. 
 			    </div>
 			  </div>
 			</li>
@@ -33,7 +33,7 @@
 			      <p class="blue-grey-text text-darken-1">14 November 1957</p>
 			    </div>
 			    <div class="timeline-body">
-			    	The United Nation's involvement in space affairs begins with General Assembly Resolution 1148 (XII). In the context of disarmament and weapons of mass destruction, the resolution urges an agreement that includes:
+			    	The UN's involvement in space affairs begins with General Assembly Resolution 1148 (XII). In the context of disarmament and weapons of mass destruction, the resolution urges an agreement that includes:
 			    	<blockquote>
 		      		The joint study of an inspection system designed to ensure that the sending of objects through outer space shall be exclusively for peaceful and scientific purposes.
 		    		</blockquote>
@@ -51,7 +51,7 @@
 			      <p class="blue-grey-text text-darken-1">13 December 1958</p>
 			    </div>
 			    <div class="timeline-body">
-			    	The United Nations General Assembly establishes the Committee on the Peaceful Uses of Outer Space as an ad hoc committee in United Nations resolution 1348 (XIII). The resolution notes in the preamble the new issues raised: 
+			    	The United Nations General Assembly establishes the Committee on the Peaceful Uses of Outer Space as an ad hoc committee in United Nations Resolution 1348 (XIII). The resolution notes in the preamble the new issues raised: 
 			    	<blockquote>
 		      		<i>Conscious</i> that recent developments in respect of outer space have added a new dimension to man's existence and opened new possibilities for the increase of his knowledge and the improvement of his life
 		    		</blockquote>
@@ -86,7 +86,7 @@
 			      <p class="blue-grey-text text-darken-1">December 1958 - February 1959</p>
 			    </div>
 			    <div class="timeline-body">
-			    	During this time, the first weather satellites and the first communications satellites are launched. In addition, the Soviet Union's Luna I becomes the first spacecraft to reach the Moon. 
+			    	During this time, the first weather satellites and the first communications satellites were launched. In addition, the Soviet Union's Luna I becomes the first spacecraft to reach the Moon. 
 			    </div>
 			  </div>
 			</li>
@@ -124,7 +124,7 @@
 			      <p class="blue-grey-text text-darken-1">5 July 1960</p>
 			    </div>
 			    <div class="timeline-body">
-			    	The United States launches the first successful spy satellite under the cover name Galactic Radiation and Background (GRAB). The satellite's orbits included time over the Soviet Union and the People's Republic of China. The flyover of satellites over other nation's territory indicated that "space law" would be distinct from existing regulations.
+			    	The United States launches the first successful spy satellite under the cover name Galactic Radiation and Background (GRAB). The satellite's orbit included time over the Soviet Union and the People's Republic of China. The flyover of satellites over other nation's territory indicated that "space law" would be distinct from existing regulations.
 			    </div>
 			  </div>
 			</li>
@@ -184,7 +184,7 @@
 			      <p class="blue-grey-text text-darken-1">3 December 1968</p>
 			    </div>
 			    <div class="timeline-body">
-			    	Expanding on the provisions regarding individuals in distress in space from the <a href="#ost"> Outer Space Treaty </a>, the agreement requires that states and nations aware of personnel in space  in need of aid must provide all available assistance regardless of circumstances.
+			    	Expanding on the provisions regarding individuals in distress in space from the <a href="#ost"> Outer Space Treaty</a>, the agreement requires that states and nations aware of personnel in space  in need of aid must provide all available assistance regardless of circumstances.
 			    </div>
 			  </div>
 			</li>
@@ -200,7 +200,7 @@
 			      <p class="blue-grey-text text-darken-1">September 1972</p>
 			    </div>
 			    <div class="timeline-body">
-			    	Elaborating on Article VII of the <a href="#ost"> Outer Space Treaty </a>, the Liability Agreement requires that nations and states bear all the responsibility of their spacecraft and vehicles as well as damage incurred by the vehicles.
+			    	Elaborating on Article VII of the <a href="#ost"> Outer Space Treaty</a>, the Liability Agreement requires that nations and states bear all responsibility of their spacecraft and vehicles as well as damage incurred by the vehicles.
 			    </div>
 			  </div>
 			</li>
@@ -215,7 +215,7 @@
 			      <p class="blue-grey-text text-darken-1">25 June 1974</p>
 			    </div>
 			    <div class="timeline-body">
-			    	A military space station, Salyut 3 was allegedly armed with a gun or cannon. While never confirmed, it is alleged that the weapon was installed for "self-defense" purposes. While the <a href="#ost" >Outer Space Treaty </a> prohibits weapons of mass destruction in space, it makes no comment regarding the use of conventional weapons. 
+			    	A military space station, Salyut 3 was allegedly armed with a gun or cannon. While never confirmed, it is alleged that the weapon was installed for "self-defense" purposes. While the <a href="#ost" >Outer Space Treaty </a> prohibits weapons of mass destruction in space, it makes no comment regarding the presence of conventional weapons in outer space. 
 			    </div>
 			  </div>
 			</li>
@@ -279,7 +279,7 @@
 			      <p class="blue-grey-text text-darken-1">9 to 21 August 1982</p>
 			    </div>
 			    <div class="timeline-body">
-			    	The second conference UN Conference on the Exploration and Peaceful Uses of Outer Space continues its discussion of space technologies and cooperation in outer space. The concluding report notes:
+			    	The second UN Conference on the Exploration and Peaceful Uses of Outer Space continues its discussion of space technologies and cooperation in outer space. The concluding report notes:
 			    	<blockquote>
 			    		Co-operation between nations on matters concerning space has a long and rather fruitful record, though recent trends leading to the extension of the arms race into outer space are a cause of great concern to the international community. 
 			    	</blockquote>
@@ -313,7 +313,7 @@
 			      <p class="blue-grey-text text-darken-1">28 January 1998</p>
 			    </div>
 			    <div class="timeline-body">
-			    	The agreement sets into motion one of the largest programs in space exploration involving fifteen governments to develop and create the International Space Station. The government explicitly declares its operation and development to be in accordance with all five UN treaties on outer space with the exception of the <a href="#moon"> Moon Treaty</a>. Additionally, the treaty waives parts of the <a href="#liab">Liability Convention</a> through cross-waivers with the goal of  encouraging participation.
+			    	The agreement sets into motion one of the largest cooperative efforts in space exploration involving fifteen governments to develop and create the International Space Station. The government explicitly declares its operation and development to be in accordance with all UN treaties on outer space with the exception of the <a href="#moon"> Moon Treaty</a>. Additionally, the treaty waives parts of the <a href="#liab">Liability Convention</a> through cross-waivers with the goal of  encouraging participation.
 			    </div>
 			  </div>
 			</li>
